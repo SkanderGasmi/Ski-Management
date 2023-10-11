@@ -1,1 +1,1 @@
-# Ski-Management
+# SkanderGasmiSki
