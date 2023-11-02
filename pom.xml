@@ -8,13 +8,13 @@
         <version>2.7.8</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
-    <groupId>ds4.com</groupId>
-    <artifactId>SkiSkanderGasmi</artifactId>
+    <groupId>tn.esprit.ds</groupId>
+    <artifactId>SkiStationProject</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>SkiSkanderGasmi</name>
-    <description>SkiSkanderGasmi</description>
+    <name>SkiStationProject</name>
+    <description>SkiStationProject</description>
     <properties>
-        <java.version>19</java.version>
+        <java.version>1.8</java.version>
     </properties>
     <dependencies>
         <dependency>
@@ -40,6 +40,11 @@
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-test</artifactId>
             <scope>test</scope>
+        </dependency>
+        <dependency>
+            <groupId>org.springdoc</groupId>
+            <artifactId>springdoc-openapi-ui</artifactId>
+            <version>1.6.9</version>
         </dependency>
     </dependencies>
 
