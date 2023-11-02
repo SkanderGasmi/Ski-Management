@@ -1,0 +1,8 @@
+#ignore everything
+/*
+
+!src/
+!img.png
+!pom.xml
+!README.md
+!.gitignore
